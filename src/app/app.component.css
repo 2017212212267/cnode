@@ -1,0 +1,289 @@
+#head{
+  background:#444444;
+  font-size: 12px;
+  margin-left:0px;
+  padding-top:0px;
+  height:50px;
+}
+input{
+  background-color:grey;
+  border-color:#444444;
+}
+input:hover{
+  background-color:white;
+}
+.brand{
+  padding-left:60px;
+  padding-top:8px;
+  height:30px;
+  width:120px;
+  float:left;
+ // width:10%;
+}
+.navbar-search{
+  padding-top:12px;
+  padding-left:20px;
+  float:left;
+}
+.search-query {
+  padding: 4px 14px;
+  margin-bottom: 0;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+.small-title{
+  padding-left:450px;
+  padding-right:50px;
+  font-size: 14px;
+  padding-top: 16px;
+  display: flex;
+  justify-content: space-around;
+}
+.a{
+  color:darkgrey;
+  text-decoration: none;
+  border:none;
+}
+.a:hover{
+color:white;
+}
+
+#body1{
+  background:white;
+  width: 67%;
+  position:absolute;
+  left:60px;
+  float:left;
+  border:1px;
+}
+.small-title1{
+  background:#f6f6f6;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom:10px;
+  padding-right:500px;
+  display: flex;
+  justify-content: space-around;
+  color:limegreen;
+}
+.aa{
+  color:limegreen;
+  text-decoration: none;
+  border:none;
+}
+.aa:hover{
+ color:darkblue;
+}
+.title{
+  font-size: 14px;
+}
+.model{
+  height:45px;
+  border: 0.7px solid #f6f6f6;
+}
+.model:hover{
+  background:#f6f6f6;
+}
+.picturebig{
+  margin-left:8px;
+  margin-top:4px;
+  width:40px;
+  height:40px;
+  float:left;
+}
+.click{
+  float:left;
+  line-height:40px;
+}
+.things{
+  float:left;
+  background:lightgray;
+  border-radius: 4px;
+  font-size:14px;
+  margin-top:12px;
+}
+.biaoti{
+  float:left;
+  border:none;
+  text-decoration: none;
+  color:black;
+  line-height:40px;
+}
+.biaoti:hover{
+  text-decoration:underline;
+}
+.forevertime{
+  float:right;
+  color:grey;
+  line-height:40px;
+  font-size:12px;
+}
+.picturesmall{
+  width:20px;
+  height:20px;
+  float:right;
+  padding-top:10px;
+}
+#tail{
+  margin-bottom: 10px;
+}
+.button{
+  color:#778087;
+  text-decoration: none;
+  letter-spacing:0.5em;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding-left:8px;
+  border-radius: 3px;
+}
+.button:hover{
+  background-color:whitesmoke;
+}
+.button1{
+  color:#778087;
+  text-decoration: none;
+  letter-spacing:0em;
+  margin-left: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+.button1:hover{
+  background-color:whitesmoke;
+}
+.button2{
+  color:#80bd01;
+  letter-spacing:0.5em;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding-left:8px;
+}
+.button2:hover{
+  background-color:whitesmoke;
+}
+.button3{
+  color:#778087;
+  text-decoration: none;
+  letter-spacing:0em;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+.button3:hover{
+  background-color:whitesmoke;
+}
+
+#body2{
+  position:absolute;
+  right:60px;
+  float:right;
+  width: 22%;
+  border:0px;
+}
+.background1{
+  font-size:14px;
+  background-color: white;
+  height: 120px;
+  width: 280px;
+}
+.login{
+  border:none;
+  text-decoration: none;
+  color:grey;
+  font-size:14px;
+}
+.login:hover{
+  text-decoration:underline;
+}
+.githublogin{
+  border:none;
+  text-decoration: none;
+  color:white;
+  background-color: #5bc0de;
+  padding:10px;
+  border-radius: 3px;
+  font-size: 14px;
+}
+.githublogin:hover{
+  background-color:#08c;
+}
+.picture1{
+  width:280px;
+  background: white;
+  font-size: 12px;
+  top:10px;
+}
+.picturesize{
+  width:255px;
+  height:80px;
+}
+.background{
+  font-size:14px;
+  background-color: white;
+  width:280px;
+}
+.title2{
+  font-size: 14px;
+  background-color: whitesmoke;
+}
+.height{
+  line-height: 30px;
+  color:grey;
+}
+.picture2{
+  width:150px;
+  height:40px;
+  background: white;
+  padding-left:10px;
+}
+.picture3{
+  width:200px;
+  height:200px;
+  position:center;
+}
+.yuanma{
+  text-align:center;
+}
+
+#body3{
+  width: 1280px;
+  position:absolute;
+  top:2000px;
+  background:white;
+  padding-left:60px;
+}
+.color{
+  color:darkgrey;
+  line-height: 20px;
+  vertical-align: bottom;
+  font-size:14px;
+}
+.ucloud{
+  height:20px;
+  width:90px;
+  margin: 0 auto
+}
+.qiyunniu{
+  height:40px;
+  width:100px;
+}
+img{
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+  border: none!important;
+}
+.digital{
+  color:#08c;
+  text-decoration: none;
+  border:none;
+}
+.digital:hover{
+  text-decoration:underline;
+  color:darkslateblue;
+}
